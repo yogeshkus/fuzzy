@@ -1,0 +1,10 @@
+def sum of multi sub(number_1,number_2):
+    multi = number_1 * number_2
+    sub = number_1 - number_2
+    summation = multi + sub
+    return summation
+    
+x = sum of multi sub(5,6)
+print(x)
+    
+   
